@@ -5,4 +5,4 @@ My Workout Planner is an IOS App which allows users to easily schedule workouts 
 
 Requires X Code
 
-![alt tag](http://imgur.com/sK5Oz39)
+![alt tag](http://imgur.com/sK5Oz39.png)
